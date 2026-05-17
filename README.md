@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurukavyasree" alt="gurukavyasree" /></a> </p>
 
-- 🔭 I’m currently working on [creative hub](Your CreativeHub mini project live link is: [https://gurukavyasree.github.io/creativehub_25/)
+- 🔭 I’m currently working on [creative hub](https://gurukavyasree.github.io/creativehub_25/)
 
 - 🌱 I’m currently learning **📘 Currently Learning: - Python - Data Science - Pandas & NumPy - Machine Learning - Data Visualization**
 
