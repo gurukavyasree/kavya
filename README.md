@@ -1,5 +1,3 @@
-# kavya
-Hello world , this is my profile 
 <h1 align="center">Hi 👋, I'm Gurukavyasree Desireddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -7,7 +5,7 @@ Hello world , this is my profile
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurukavyasree" alt="gurukavyasree" /></a> </p>
 
-- 🔭 I’m currently working on [creative hub](Your CreativeHub mini project live link is: [CreativeHub Project Webshttps://gurukavyasree.github.io/creativehub_25/)
+- 🔭 I’m currently working on [creative hub](Your CreativeHub mini project live link is: [https://gurukavyasree.github.io/creativehub_25/)
 
 - 🌱 I’m currently learning **📘 Currently Learning: - Python - Data Science - Pandas & NumPy - Machine Learning - Data Visualization**
 
